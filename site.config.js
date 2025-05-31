@@ -1,14 +1,14 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "frq",
-    image: "https://i.pinimg.com/736x/92/6d/b0/926db0135e132df57bf6e39c12ceb34f.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I breath.",
+    name: "fariq",
+    image: "https://i.pinimg.com/736x/c4/96/9a/c4969aaedbc096c09b35e31abd11e2ec.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "active human being",
+    bio: "60% water.",
     email: "#",
     linkedin: "#",
     github: "#",
-    instagram: "nuxxtttt",
+    instagram: "0xfrqq",
   },
   projects: [
     {
@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "gdtb",
-    description: "guling dan tempe bakar!",
+    description: "anjay!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
@@ -31,7 +31,7 @@ const CONFIG = {
 
   // notion configuration (required)
   notionConfig: {
-    pageId: "13b68dbd24ce41e2a2f0e7223b25ee40",
+    pageId: "2040471728b78042b10bdb7d0dc497b6",
   },
 
   // plugin configuration (optional)
