@@ -5,7 +5,7 @@ const CONFIG = {
     image: "c4969aaedbc096c09b35e31abd11e2ec.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "active human being",
     bio: "60% water.",
-    email: "#",
+    email: "##",
     linkedin: "#",
     github: "#",
     instagram: "0xfrqq",
@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "blog;",
-    description: "anjay!",
+    description: "anjay",
     scheme: "system", // 'light' | 'dark' | 'system'
   },
 
