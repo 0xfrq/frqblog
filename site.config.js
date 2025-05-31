@@ -18,14 +18,14 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "gdtb",
+    title: "blog;",
     description: "anjay!",
-    scheme: "dark", // 'light' | 'dark' | 'system'
+    scheme: "system", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
   link: "#",
-  since: 2022, // If leave this empty, current year will be used.
+  since: 2025, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
